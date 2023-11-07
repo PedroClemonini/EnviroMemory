@@ -11,7 +11,5 @@ Enviro Memory
 Desenvolvimento:
 
 Erik Eduardo Santos de Oliveira
-GU3046061
 
 Pedro Marques Clemonini
-GU3046877
